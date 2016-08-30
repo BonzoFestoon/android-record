@@ -13,9 +13,10 @@ from the device.
 
 Instructions:
 
-1) Connect your device
-2) In the console, type "adb devices" to make sure you can connect to the device
-3) Enjoy!
+1) On the device, ensure that Enable USB Debugging is checked in Developer Options section of the settings.
+2) Connect your device
+3) In the console, type "adb devices" to make sure you can connect to the device
+4) Enjoy!
 
 ==============================================================================
 ==============================================================================
