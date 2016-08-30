@@ -11,6 +11,12 @@ Only the first parameter is used and should be an integer>=0
 The file name created will be named based on the time the file is pulled
 from the device.
 
+Instructions:
+
+1) Connect your device
+2) In the console, type "adb devices" to make sure you can connect to the device
+3) Enjoy!
+
 ==============================================================================
 ==============================================================================
 :Code
